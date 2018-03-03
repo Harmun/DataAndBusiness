@@ -5,5 +5,9 @@ AKA The Demind Cycle, when PDCA is implemented in an environment for manufacture
 
 Ex. sample ranges, sample means, proportion, # of occurances, or individual Sample Data, corresponds to R, X, P, C, and Run Charts.
 
+The main idea for statistical process control is to ensure the process is statistically stable.
 
 This website was envisioned from the perspective that a) quality control inserts 2d/3d arrays, chooses the formulas corresponding to the particular charts, and review data.
+
+
+It is reused code thanks to chart.js.
