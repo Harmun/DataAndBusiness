@@ -7,7 +7,9 @@ Ex. sample ranges, sample means, proportion, # of occurances, or individual Samp
 
 The main idea for statistical process control is to ensure the process is statistically stable.
 
-This website was envisioned from the perspective that a) quality control inserts 2d/3d arrays, chooses the formulas corresponding to the particular charts, and review data.
+This website was envisioned from the perspective that a) quality control inserts 2d/3d arrays, chooses the formulas corresponding to the particular charts, and reviews lower control / upper control limit, and other indicators provided by the formulas.
+
+Formulas are currently missing / not included.
 
 
-It is reused code thanks to chart.js.
+This is all reused code thanks to chart.js.
