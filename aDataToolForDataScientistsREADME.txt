@@ -9,6 +9,7 @@ The main idea for statistical process control is to ensure the process is statis
 
 This website was envisioned from the perspective that a) quality control inserts 2d/3d arrays, chooses the formulas corresponding to the particular charts, and reviews lower control / upper control limit, and other indicators provided by the formulas.
 
+Project is under development.
 Formulas are currently missing / not included.
 
 
